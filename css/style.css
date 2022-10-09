@@ -1,0 +1,76 @@
+.hidden {
+    display: none;
+}
+
+#clock {
+    color: wheat;
+    justify-content: center;
+    text-align: center;
+    display: flex;
+    font-size: 50pt;
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+#login-form {
+    display: inline-flexbox;
+    text-align: center;
+}
+
+#greeting {
+    display: inline-flexbox;
+    text-align: center;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: white;
+} 
+
+#todo-form {
+   text-align: center;
+}
+
+#quote {
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+#weather {
+    text-align: center;
+    font-family: monospace;
+}
+
+#todo-list {
+    text-align: center;
+    list-style: none;
+    padding-left: 0px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+#loginBtn {
+    width: 50px;
+    height: 20px;
+    background-color: black;
+    color :white;
+    border: none;
+    border-radius: 20px;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+#inputForm {
+    width: 150px;
+    height: 20px;
+    border: none;
+    border-radius: 20px;
+}
+
+#todoInput {
+    width: 200px;
+    height: 20px;
+    border-color: white;
+    color: antiquewhite;
+    border-radius: 20px;
+    background-color: rgba(255, 0, 0, 0);
+}
+
+#todoBtn {
+    border: none;
+    background-color: rgba(255, 0, 0, 0);
+}
